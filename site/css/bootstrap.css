@@ -28,14 +28,12 @@ body {
 .content{
 	margin: auto;
 	text-align: center;
-    width:50%;
+    width:75%;
     padding-top: 15%;
     display:inline-block;
     position:relative;
     word-wrap: break-word;
 }
-
-
 
 .content1{
 	margin: auto;
