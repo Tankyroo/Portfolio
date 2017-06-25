@@ -52,6 +52,11 @@ body {
     word-wrap: break-word;
 }
 
+.textScale h2{
+  font-size: 4vw !important;
+}
+
+
 .embed-container {
     position: relative;
     padding-bottom: 56.25%;
